@@ -19,6 +19,8 @@ cat /dev/snd/midiC2D0  # If this is the correct buffer, some text will appear wh
 
 # Home Assistant configuration
 
+To configure the application, update the following environment variables in your .env file:
+```ini
 IP="your-home-assistant-ip"
 PORT=8123
 ENDPOINT="/api"
@@ -26,6 +28,7 @@ TOKEN="your_long_lived_access_token"
 ENTITY_ID="your_light_entity_id"
 MIDI_PATH="/dev/snd/your_midi_device"
 BRIGHTNESS_INCREMENT=50
+```
 
 ## Adding your own configurations
 
