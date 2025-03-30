@@ -1,0 +1,4 @@
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+gitlab.com/gomidi/midi/v2 v2.2.19 h1:/Ktpf21SIOX61gg8PJ7wYLSsD+dOU1e3z3tlO9OS+Zs=
+gitlab.com/gomidi/midi/v2 v2.2.19/go.mod h1:ENtYaJPOwb2N+y7ihv/L7R4GtWjbknouhIIkMrJ5C0g=
