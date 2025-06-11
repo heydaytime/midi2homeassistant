@@ -33,3 +33,7 @@ BRIGHTNESS_INCREMENT=50
 ## Adding your own configurations
 
 You can add your own configurations by reading the Home Assistant documentation and observing/experimenting with the MIDI buffer.
+
+# I made a [video](https://www.youtube.com/watch?v=0_4cr9nkL7k&ab_channel=HeyDayTime) about this project
+![image](https://github.com/user-attachments/assets/76ba490b-2c66-4c5d-bc31-ee867a3a1158)
+> Yeah, I’ve got a buzzcut in the video. Don’t ask why.
